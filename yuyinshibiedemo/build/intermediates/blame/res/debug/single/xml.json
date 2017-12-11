@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\coracle\\project_data\\PictureDemo\\yuyinshibiedemo\\build\\intermediates\\res\\merged\\debug\\xml\\setting_offline.xml",
+        "source": "D:\\coracle\\project_data\\PictureDemo\\yuyinshibiedemo\\src\\main\\res\\xml\\setting_offline.xml"
+    },
+    {
+        "merged": "D:\\coracle\\project_data\\PictureDemo\\yuyinshibiedemo\\build\\intermediates\\res\\merged\\debug\\xml\\setting_all.xml",
+        "source": "D:\\coracle\\project_data\\PictureDemo\\yuyinshibiedemo\\src\\main\\res\\xml\\setting_all.xml"
+    },
+    {
+        "merged": "D:\\coracle\\project_data\\PictureDemo\\yuyinshibiedemo\\build\\intermediates\\res\\merged\\debug\\xml\\setting_online.xml",
+        "source": "D:\\coracle\\project_data\\PictureDemo\\yuyinshibiedemo\\src\\main\\res\\xml\\setting_online.xml"
+    },
+    {
+        "merged": "D:\\coracle\\project_data\\PictureDemo\\yuyinshibiedemo\\build\\intermediates\\res\\merged\\debug\\xml\\setting_nlu.xml",
+        "source": "D:\\coracle\\project_data\\PictureDemo\\yuyinshibiedemo\\src\\main\\res\\xml\\setting_nlu.xml"
+    }
+]
